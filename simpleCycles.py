@@ -1,3 +1,4 @@
+# Source: https://github.com/qpwo/python-simple-cycles
 # Luke Miles, September 2017
 # A modification of networkx's implementation of Johnson's cycle finding algorithm
 # Original implementation: https://gist.github.com/qpwo/44b48595c2946bb8f823e2d72f687cd8
